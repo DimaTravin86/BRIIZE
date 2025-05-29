@@ -1,4 +1,4 @@
-# BRIIZE
+# BRIIZE & Win11
 
 
 
@@ -80,4 +80,4 @@
 
 
 
-icon theme for kde plasma 6
+icon theme + walls for kde plasma 6
