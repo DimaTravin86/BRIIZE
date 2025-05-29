@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="480"
+   height="480"
+   viewBox="0 0 126.99999 126.99999"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="kshll.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.4.2 (2aeb623e1d, 2025-05-12)"
+   sodipodi:docname="kshll.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.9"
+     inkscape:cx="162.22222"
+     inkscape:cy="230"
+     inkscape:window-width="1360"
+     inkscape:window-height="699"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="53.125"
+       y="197.91667"
+       width="323.95833"
+       height="96.875"
+       id="rect3" />
+    <rect
+       x="81.25"
+       y="162.5"
+       width="101.04167"
+       height="32.291667"
+       id="rect1" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,4.3270398,0,1 @ F,0,0,1,0,5.8980035,0,1 @ F,0,0,1,0,5.0711807,0,1 @ F,0,0,1,0,5.4845918,0,1 @ F,0,0,1,0,5.8704429,0,1 @ F,0,0,1,0,5.5121524,0,1 @ F,0,0,1,0,4.4097221,0,1 @ F,0,0,1,0,4.8068596,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect5"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,5.3814577,0,1 @ F,0,0,1,0,5.3808657,0,1 @ F,0,0,1,0,3.8259293,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect2"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,5.3814577,0,1 @ F,0,0,1,0,5.3808657,0,1 @ F,0,0,1,0,3.8259293,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text1"
+       style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1);fill:#ffffff;-inkscape-font-specification:'URW Gothic';font-family:'URW Gothic';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text3"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:96px;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic Semi-Bold';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3);fill:#000000;fill-opacity:1" />
+    <g
+       id="g5"
+       transform="matrix(1.3459459,0,0,1.3459459,-14.09522,-21.412481)">
+      <path
+         style="fill:#ffffff;stroke-width:0.264583"
+         d="m 11.851128,45.668186 v 27.533201 a 5.8980035,5.8980035 45 0 0 5.898003,5.898004 h 48.010851 a 5.0711807,5.0711807 45 0 1 5.071181,5.071181 v 1.570965 a 5.4845918,5.4845918 45 0 0 5.484592,5.484592 l 21.442272,0 a 5.8704429,5.8704429 135 0 0 5.870443,-5.870443 V 57.326387 A 5.5121524,5.5121524 45 0 0 98.116318,51.814235 H 55.672744 a 4.4097221,4.4097221 45 0 1 -4.409722,-4.409722 v -1.807722 a 4.7401009,4.7401009 44.599357 0 0 -4.80639,-4.739638 l -30.278887,0.423481 a 4.387981,4.387981 134.59936 0 0 -4.326617,4.387552 z"
+         id="path1"
+         inkscape:path-effect="#path-effect1"
+         inkscape:original-d="M 11.851128,41.341146 V 79.099391 H 70.831163 V 91.226129 H 103.62847 V 51.814235 H 51.263022 V 40.789931 Z" />
+      <g
+         id="g1"
+         transform="matrix(0.22016075,0,0,0.22016075,3.0896099,33.633685)">
+        <path
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.19162"
+           d="M 8.9185394,23.604279 V 8.7996385 A 5.3808657,5.3808657 135 0 1 14.299405,3.4187728 l 16.359821,0 a 1.5847671,1.5847671 67.499805 0 1 1.120607,2.705359 L 12.723779,25.180446 A 2.2290513,2.2290513 22.499805 0 1 8.9185394,23.604279 Z"
+           id="path3"
+           transform="matrix(1,0,0,-1,47.702294,82.914955)"
+           inkscape:original-d="M 8.9185394,28.985737 V 3.4187728 H 34.485155 Z"
+           inkscape:path-effect="#path-effect5" />
+        <path
+           style="fill:#00ffff;fill-opacity:1;stroke-width:0.19162"
+           d="M 8.9185394,23.604279 V 8.7996385 A 5.3808657,5.3808657 135 0 1 14.299405,3.4187728 l 16.359821,0 a 1.5847671,1.5847671 67.499805 0 1 1.120607,2.705359 L 12.723779,25.180446 A 2.2290513,2.2290513 22.499805 0 1 8.9185394,23.604279 Z"
+           id="path2"
+           inkscape:original-d="M 8.9185394,28.985737 V 3.4187728 H 34.485155 Z"
+           inkscape:path-effect="#path-effect2"
+           transform="translate(47.702294,38.649977)" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:0.264583"
+         x="21.773003"
+         y="49.884979"
+         id="text2"><tspan
+           sodipodi:role="line"
+           id="tspan2"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:8.46667px;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic Semi-Bold';fill:#000000;fill-opacity:1;stroke-width:0.264583"
+           x="21.773003"
+           y="49.884979">СОФТ</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:29.9156px;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic Semi-Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.350573"
+         x="12.178975"
+         y="76.624809"
+         id="text4"><tspan
+           sodipodi:role="line"
+           id="tspan4"
+           style="stroke-width:0.350573"
+           x="12.178975"
+           y="76.624809">HOME</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:8.70559px;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic Semi-Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.102018"
+         x="74.530556"
+         y="87.31353"
+         id="text5"><tspan
+           sodipodi:role="line"
+           id="tspan5"
+           style="stroke-width:0.102018"
+           x="74.530556"
+           y="87.31353">LINUX</tspan></text>
+    </g>
+  </g>
+</svg>
